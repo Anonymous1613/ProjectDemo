@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ProjectDemo</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="employee_id">Employee_id</string>
+    <string name="role">Role</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="back_to_login">Back To LOGIN</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an Account?SIGN UP</string>
+    <string name="employee">Employee</string>
+    <string name="admin">Admin</string>
+    <string name="security">Security</string>
+    <string name="login1">LOGIN</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="feedback">Feedback</string>
+    <string name="hcltech">HCLTECH</string>
+    <string name="home">Home</string>
+    <string name="number_of_bi_cycles_available">Number of Bi-Cycles Available</string>
+    <string name="request_bi_cycle">Request Bi-Cycle</string>
+    <string name="return_bi_cycle">Return Bi-Cycle</string>
+    <string name="number_of_bi_cycles_are_damaged">Number of Bi-Cycles are damaged</string>
+    <string name="number_of_bi_cycles_are_in_use">Number of Bi-Cycles are In Use</string>
+    <string name="selectfile">SelectFile</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="add_bi_cycles">Add Bi-Cycles</string>
+    <string name="upload_list">Upload List</string>
+    <string name="return_status">Return Status</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number_of_bi_cycles_available_presently">Number of Bi-Cycles Available presently :</string>
+    <string name="notify">Notify</string>
+    <string name="request">Request</string>
+    <string name="number_of_bi_cycles_are_currently_allocated">Number of Bi-Cycles are currently Allocated :</string>
+    <string name="check_status">Check Status</string>
+    <string name="number_of_bi_cycles_issued">Number of Bi-Cycles issued :</string>
+    <string name="number_of_bi_cycles_not_issued">Number of Bi-Cycles not issued :</string>
+    <string name="bicycle_id">Bicycle ID</string>
+    <string name="bicycle_color">Bicycle Color</string>
+    <string name="add_bicycle">Add BiCycle</string>
+</resources>
